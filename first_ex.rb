@@ -12,5 +12,4 @@ while index < numbers.length
 end 
 
 pp sum 
-average = sum / 4
-pp average 
+pp sum / numbers.length
